@@ -2,6 +2,8 @@
 
 ### ~3 Gb of market data for you and your analysis with NN or other methods 
 
+Here is the link to kaggle dataset [RUSSIA 249 Stocks Prices MOEX](https://www.kaggle.com/datasets/olegshpagin/russia-stocks-prices-ohlcv) (weekly updates)
+
 #### 2241 CSV files for MN1, W1, D1, H4, H1, M30, M15, M10 and M5 timeframes
 
 ``` 
